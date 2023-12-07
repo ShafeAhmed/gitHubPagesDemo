@@ -1,0 +1,18 @@
+.main {
+}
+
+.navbar {
+  visibility: hidden;
+}
+.content {
+  background-color: blanchedalmond;
+  text-transform: uppercase;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer {
+  visibility: hidden;
+}
